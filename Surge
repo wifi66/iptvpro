@@ -1,0 +1,482 @@
+[
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32126,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "剩余流量：112.18 GB",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32126,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "距离下次重置剩余：14 天",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32126,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "套餐到期：2023-07-22",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32126,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇭🇰 Hong Kong 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32126,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇭🇰 Hong Kong 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32126,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇭🇰 Hong Kong 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32549,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇭🇰 Hong Kong 04",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32549,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇭🇰 Hong Kong 05",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 32549,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇭🇰 Hong Kong 06",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 21514,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇨🇳 Taiwan 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 21514,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇨🇳 Taiwan 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 21514,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇨🇳 Taiwan 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 10364,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇨🇳 Taiwan 04",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 10364,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇨🇳 Taiwan 05",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 10364,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇨🇳 Taiwan 06",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 20615,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇯🇵 Japan 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 20615,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇯🇵 Japan 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 20615,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇯🇵 Japan 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 22897,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇯🇵 Japan 04",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 22897,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇯🇵 Japan 05",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 22897,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇯🇵 Japan 06",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 33288,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇸🇬 Singapore 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 33288,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇸🇬 Singapore 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 33288,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇸🇬 Singapore 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 22780,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇸🇬 Singapore 04",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 22780,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇸🇬 Singapore 05",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-1.cdn.tnodes-49cb61a5.sbs",
+    "port": 22780,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇸🇬 Singapore 06",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 48987,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇺🇸 United States 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 48987,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇺🇸 United States 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 48987,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇺🇸 United States 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 29878,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇺🇸 United States 04",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 29878,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇺🇸 United States 05",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 29878,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇺🇸 United States 06",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 11400,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇬🇧 United Kingdom 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 11400,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇬🇧 United Kingdom 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 11400,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇬🇧 United Kingdom 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 27234,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇩🇪 Germany 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 27234,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇩🇪 Germany 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 27234,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇩🇪 Germany 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 21508,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇱🇺 Luxembourg 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 21508,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇱🇺 Luxembourg 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 21508,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇱🇺 Luxembourg 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 45943,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇹🇷 Turkey 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 45943,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇹🇷 Turkey 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 45943,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇹🇷 Turkey 03",
+    "type": "ss"
+  },
+  {
+    "server": "cn-east-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 45550,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇦🇷 Argentina 01",
+    "type": "ss"
+  },
+  {
+    "server": "cn-south-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 45550,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇦🇷 Argentina 02",
+    "type": "ss"
+  },
+  {
+    "server": "cn-north-2.cdn.tnodes-49cb61a5.sbs",
+    "port": 45550,
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "73bc1c34-0ea9-43ff-b5d8-806a7758d30e",
+    "tfo": true,
+    "udp": true,
+    "name": "🇦🇷 Argentina 03",
+    "type": "ss"
+  }
+]
